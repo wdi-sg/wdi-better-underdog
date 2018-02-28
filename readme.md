@@ -4,6 +4,29 @@
 
 ---
 
+# Important links
+- [Class Slack](https://ga-students.slack.com/)
+- [Gitbook](https://wdi-sg.github.io/gitbook-2018)
+- [Exit Ticket](https://goo.gl/forms/OJRsxVoxv6j2rJ6p1)
+- [Padlet](https://padlet.com/raywtham/ghtjsjkotwc2)
+
+
+
+## Instructional Team
+- **Akira Wong** (Lead Instructor)
+  - [akira.wong@generalassemb.ly ](mailto:akira.wong@generalassemb.ly)
+  - Weekday Office Hours: 9am - 5pm (Offline) / 5pm - 8pm (Online)
+- **Nick Ang** (Facilitator)
+  - Message on Slack
+  - Weekday Office Hours: 9am - 5pm (Offline) / 5pm - 8pm (Online)
+- **Ray Tham** (Facilitator)
+  - Message on Slack
+  - Weekday Office Hours: 9am - 5pm (Offline) / 5pm - 8pm (Online)
+
+
+
+
+
 ## Important Policies
 [](10 mins)
 
@@ -79,6 +102,19 @@ Holidays:
 
 
 ---
+
+#### Front-End Javascript
+
+| Topic                              | Assignments
+| ---                                | ---             
+| [Installfest][23]                  |                                      |
+| [JavaScript Primitives][4]         | [Primitives Exercises][1003]         |
+| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]        |
+| [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
+|                                    | [Google Shopping][1002]              |
+|                                    | [Google Shopping Functions][1006]    |
+
+
 
 
 
