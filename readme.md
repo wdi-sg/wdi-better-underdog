@@ -164,12 +164,12 @@ Holidays:
 [1]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-internet/how-the-internet-works.html
 [2]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/command-line/01readme.html
 [3]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/intro-git/readme.html
-[4]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-primitives/readme.html
+[4]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/readme.html
 [5]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/html-review/readme.html
 [6]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-selectors/readme.html
-[7]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-control-flow/readme.html
+[7]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/js-control-flow/readme.html
 [9]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-box-model/readme.html
-[10]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-functions/readme.html
+[10]: https://wdi-sg.github.io/gitbook-2018/02-js/js-functions/readme.html
 [11]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-events/readme.html
 [12]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-callbacks-iterators/readme.html
 [13]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-intro/readme.html
@@ -182,7 +182,7 @@ Holidays:
 [20]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-tdd-intro/readme.html
 [21]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-scopes/readme.html
 [22]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-inheritance/01readme.html
-[23]: https://jeremiahalex.gitbooks.io/wdi-sg/content/00-config-deployment/installfest/readme.html
+[23]: https://wdi-sg.github.io/gitbook-2018/00-config-deployment/installfest/readme.html
 [24]: https://jeremiahalex.gitbooks.io/wdi-sg/content/00-config-deployment/deploy-github-pages/readme.html
 [25]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-next/readme.html
 
