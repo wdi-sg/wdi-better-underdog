@@ -24,8 +24,31 @@
   - Weekday Office Hours: 9am - 5pm (Offline) / 5pm - 8pm (Online)
 
 
+## Repositories
 
-
+- [Akira Wong](https://github.com/awongh)
+- [Ray Tham](https://github.com/raywtham)
+- [Nick Ang](https://github.com/nickangtc)
+- [Chee Kean](https://github.com/ckkok)
+- [Jerry](https://github.com/jerrypan90)
+- [Jed](https://github.com/jchuay)
+- [Teh](TK)
+- [Walter](https://github.com/WalterWx)
+- [Alice](https://github.com/tiffam)
+- [Jian Hao](https://github.com/jaanhio)
+- [Jacob](https://github.com/enkai87)
+- [Scott](https://github.com/scott88lee)
+- [Alethea](https://github.com/aletheatoh)
+- [Greta](https://github.com/highleow)
+- [Seliyan](https://github.com/seliyan89)
+- [Elaine](https://github.com/ElaineChoo)
+- [Jerome Christian](https://github.com/stonefruit)
+- [Isa](https://github.com/lajansaa)
+- [Erwin](https://github.com/1ung)
+- [Zheng Win](https://github.com/zw-zack)
+- [Jun Wei](https://github.com/junw3i)
+- [Justin](https://github.com/wenhao-yap)
+- [Edmund](https://github.com/edmundcjj)
 
 ## Important Policies
 [](10 mins)
@@ -358,4 +381,3 @@ Holidays:
 [1315]: https://github.com/wdi-sg/interview-questions
 [1316]: https://github.com/wdi-sg/react-stopwatch
 [1317]: https://github.com/wdi-sg/react-yearbook
-
