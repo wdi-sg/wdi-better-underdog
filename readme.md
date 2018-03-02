@@ -32,7 +32,6 @@
 - [Chee Kean](https://github.com/ckkok)
 - [Jerry Pan](https://github.com/jerrypan90)
 - [Jed Chua](https://github.com/jchuay)
-- [Teh Hui Ping](TK)
 - [Walter Yan](https://github.com/WalterWx)
 - [Alice Lim](https://github.com/tiffam)
 - [Jian Hao Tan](https://github.com/jaanhio)
