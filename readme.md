@@ -136,7 +136,7 @@ Holidays:
 | [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
 |                                    | [Google Shopping][1002]              |
 |                                    | [Google Shopping Functions][1006]    |
-|                                    | [Tic Tac Toe][1010]    |
+|                                    | [Tic Tac Toe][1039]    |
 
 
 
@@ -252,6 +252,7 @@ Holidays:
 [1036]: https://github.com/wdi-sg/js-clock-intervals
 [1037]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-events/readme.html
 [1038]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-manipulation/
+[1039]: https://github.com/wdi-sg/tictactoe-textbased
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
