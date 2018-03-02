@@ -136,9 +136,9 @@ Holidays:
 | [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
 |                                    | [Google Shopping][1002]              |
 |                                    | [Google Shopping Functions][1006]    |
+|                                    | [HTML Top Ten Movies Table][1040]    |
+|                                    | [CSS Positioning][1041]    |
 |                                    | [Tic Tac Toe][1039]    |
-
-
 
 <!-- References for Additional Materials Section 5xxx -->
 <!-- Unit 1 Online Materials 51xx -->
@@ -253,6 +253,8 @@ Holidays:
 [1037]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-events/readme.html
 [1038]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-manipulation/
 [1039]: https://github.com/wdi-sg/tictactoe-textbased
+[1040]: https://github.com/wdi-sg/html_top_ten_movies_table
+[1041]: https://github.com/wdi-sg/css-positioning
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
