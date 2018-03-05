@@ -139,7 +139,6 @@ Holidays:
 |                                    | [CSS Positioning][1041]              |
 |                                    | [Tic Tac Toe][1039]                  |
 |                                    | [CSS Airbnb][1024]                   |
-|                                    | [CSS Airbnb][1024]                   |
 |                                    | [DOM Take the Money and Run][1042]   |
 
 <!-- References for Additional Materials Section 5xxx -->
