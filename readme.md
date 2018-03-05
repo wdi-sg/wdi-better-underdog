@@ -137,8 +137,11 @@ Holidays:
 |                                    | [Google Shopping][1002]              |
 |                                    | [Google Shopping Functions][1006]    |
 |                                    | [HTML Top Ten Movies Table][1040]    |
-|                                    | [CSS Positioning][1041]    |
-|                                    | [Tic Tac Toe][1039]    |
+|                                    | [CSS Positioning][1041]              |
+|                                    | [Tic Tac Toe][1039]                  |
+|                                    | [CSS Airbnb][1024]                   |
+|                                    | [CSS Airbnb][1024]                   |
+|                                    | [DOM Take the Money and Run][1042]   |
 
 <!-- References for Additional Materials Section 5xxx -->
 <!-- Unit 1 Online Materials 51xx -->
@@ -255,6 +258,7 @@ Holidays:
 [1039]: https://github.com/wdi-sg/tictactoe-textbased
 [1040]: https://github.com/wdi-sg/html_top_ten_movies_table
 [1041]: https://github.com/wdi-sg/css-positioning
+[1042]: https://github.com/wdi-sg/ttmar
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
