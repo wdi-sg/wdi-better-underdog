@@ -140,7 +140,26 @@ Holidays:
 | [Javascript Variable Scope][26]    | [Choose Your Own Adventure][1043]    |
 |                                    | [CSS Airbnb][1024]                   |
 |                                    | [DOM Take the Money and Run][1042]   |
-|                                    | [Fellowship of the DOM][1044]         |
+|                                    | [Fellowship of the DOM][1044]        |
+
+
+#### [Outcomes Topics](#outcomes-topics)
+Some dates To Be Determined
+
+
+| Topic                                   | Week  |
+| ---                                     | ---   |         
+| Intro to Outcomes                       |  2    |
+| Alumni Panel                            |  3    |
+| Resume Writing / Linkedin               |  4    |
+| Resume Writing                          |  TBD  |
+| Job Search Strategy + Branding / Pitch  |  TBD  |
+| Interview, Negotiations, Fill the Role  |  TBD  |
+| Company Campus Visit                    |  TBD  |
+| Mock Interviews                         |  TBD  |
+
+
+
 
 <!-- References for Additional Materials Section 5xxx -->
 <!-- Unit 1 Online Materials 51xx -->
