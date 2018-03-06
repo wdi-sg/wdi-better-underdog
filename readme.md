@@ -50,7 +50,6 @@
 - [Edmund Chow](https://github.com/edmundcjj)
 
 ## Important Policies
-[](10 mins)
 
 Please read and adhere to the following, otherwise bad things might happen.
 
