@@ -140,7 +140,7 @@ Holidays:
 | [Javascript Variable Scope][26]    | [Choose Your Own Adventure][1043]    |
 |                                    | [CSS Airbnb][1024]                   |
 |                                    | [DOM Take the Money and Run][1042]   |
-|                                    | [Fellowship of the DOM[1044]         |
+|                                    | [Fellowship of the DOM][1044]         |
 
 <!-- References for Additional Materials Section 5xxx -->
 <!-- Unit 1 Online Materials 51xx -->
