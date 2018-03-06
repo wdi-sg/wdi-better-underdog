@@ -133,13 +133,15 @@ Holidays:
 | [JavaScript Primitives][4]         | [Primitives Exercises][1003]         |
 | [JavaScript Control Flow][7]       | [Control Flow Problems][1004]        |
 | [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
-|                                    | [Google Shopping][1002]              |
-|                                    | [Google Shopping Functions][1006]    |
-|                                    | [HTML Top Ten Movies Table][1040]    |
-|                                    | [CSS Positioning][1041]              |
+| [HTML][5]                          | [Google Shopping][1002]              |
+| [CSS Selectors][6]                 | [Google Shopping Functions][1006]    |
+| [CSS Box Model][9]                 | [HTML Top Ten Movies Table][1040]    |
+| [DOM and Events][11]               | [CSS Positioning][1041]              |
 |                                    | [Tic Tac Toe][1039]                  |
-|                                    | [CSS Airbnb][1024]                   |
+|                                    | [Choose Your Own Adventure][1043]    |
+|                                    | [CSS Airbnb][1024]                   |
 |                                    | [DOM Take the Money and Run][1042]   |
+|                                    |                                      |
 
 <!-- References for Additional Materials Section 5xxx -->
 <!-- Unit 1 Online Materials 51xx -->
@@ -190,12 +192,12 @@ Holidays:
 [2]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/command-line/01readme.html
 [3]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/intro-git/readme.html
 [4]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/readme.html
-[5]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/html-review/readme.html
-[6]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-selectors/readme.html
+[5]: https://wdi-sg.github.io/gitbook-2018/03-html-css/html-review/readme.html
+[6]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-selectors/readme.html
 [7]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/js-control-flow/readme.html
-[9]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-box-model/readme.html
+[9]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-box-model/readme.html
 [10]: https://wdi-sg.github.io/gitbook-2018/02-js/js-functions/readme.html
-[11]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-events/readme.html
+[11]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-events/readme.html
 [12]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-callbacks-iterators/readme.html
 [13]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-intro/readme.html
 [14]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-plugins/readme.html
@@ -257,6 +259,7 @@ Holidays:
 [1040]: https://github.com/wdi-sg/html_top_ten_movies_table
 [1041]: https://github.com/wdi-sg/css-positioning
 [1042]: https://github.com/wdi-sg/ttmar
+[1043]: https://github.com/wdi-sg/choose_your_own_adventure_js
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
