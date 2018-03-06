@@ -136,7 +136,7 @@ Holidays:
 | [CSS Selectors][6]                 | [Google Shopping Functions][1006]    |
 | [CSS Box Model][9]                 | [HTML Top Ten Movies Table][1040]    |
 | [DOM and Events][11]               | [CSS Positioning][1041]              |
-| [DOM Manipulation] [27]            | [Tic Tac Toe][1039]                  |
+| [DOM Manipulation][27]            | [Tic Tac Toe][1039]                  |
 | [Javascript Variable Scope][26]    | [Choose Your Own Adventure][1043]    |
 |                                    | [CSS Airbnb][1024]                   |
 |                                    | [DOM Take the Money and Run][1042]   |
