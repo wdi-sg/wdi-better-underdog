@@ -128,19 +128,19 @@ Holidays:
 
 | Topic                              | Assignments
 | ---                                | ---             
-| [Installfest][23]                  |                                      |
-| [JavaScript Primitives][4]         | [Primitives Exercises][1003]         |
-| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]        |
-| [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
-| [HTML][5]                          | [Google Shopping][1002]              |
-| [CSS Selectors][6]                 | [Google Shopping Functions][1006]    |
-| [CSS Box Model][9]                 | [HTML Top Ten Movies Table][1040]    |
-| [DOM and Events][11]               | [CSS Positioning][1041]              |
-| [DOM Manipulation][27]            | [Tic Tac Toe][1039]                  |
-| [Javascript Variable Scope][26]    | [Choose Your Own Adventure][1043]    |
-|                                    | [CSS Airbnb][1024]                   |
-|                                    | [DOM Take the Money and Run][1042]   |
-|                                    | [Fellowship of the DOM][1044]        |
+| [Installfest][23]                  |                                              |
+| [JavaScript Primitives][4]         | [Primitives Exercises][1003]                 |
+| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]                |
+| [JavaScript Functions][10]         | [Functions Problem Set][1007]                |
+| [HTML][5]                          | [Google Shopping][1002]                      |
+| [CSS Selectors][6]                 | [Google Shopping Functions][1006]            |
+| [CSS Box Model][9]                 | [HTML Top Ten Movies Table][1040]            |
+| [DOM and Events][11]               | [Recreate Instagram - CSS Positioning][1041] |
+| [DOM Manipulation][27]            | [Tic Tac Toe][1039]                           |
+| [Javascript Variable Scope][26]    | [Choose Your Own Adventure][1043]            |
+|                                    | [CSS Airbnb][1024]                           |
+|                                    | [DOM Take the Money and Run][1042]           |
+|                                    | [Fellowship of the DOM][1044]                |
 
 
 #### [Outcomes Topics](#outcomes-topics)
