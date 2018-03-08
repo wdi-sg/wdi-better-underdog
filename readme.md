@@ -141,7 +141,7 @@ Holidays:
 | [AJAX][15]                         | [CSS Airbnb][1024]                           |
 | [Bootstrap][17]                    | [DOM Take the Money and Run][1042]           |
 | [jQuery][25]                       | [Fellowship of the DOM][1044]                |
-|                                    | [TV Browser] [1045]
+|                                    | [TV Browser][1045]
 
 #### [Outcomes Topics](#outcomes-topics)
 Some dates To Be Determined
