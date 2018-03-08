@@ -136,12 +136,12 @@ Holidays:
 | [CSS Selectors][6]                 | [Google Shopping Functions][1006]            |
 | [CSS Box Model][9]                 | [HTML Top Ten Movies Table][1040]            |
 | [DOM and Events][11]               | [Recreate Instagram - CSS Positioning][1041] |
-| [DOM Manipulation][27]            | [Tic Tac Toe][1039]                           |
+| [DOM Manipulation][27]             | [Tic Tac Toe][1039]                          |
 | [Javascript Variable Scope][26]    | [Choose Your Own Adventure][1043]            |
-|                                    | [CSS Airbnb][1024]                           |
-|                                    | [DOM Take the Money and Run][1042]           |
-|                                    | [Fellowship of the DOM][1044]                |
-
+| [AJAX][15]                         | [CSS Airbnb][1024]                           |
+| [Bootstrap][17]                    | [DOM Take the Money and Run][1042]           |
+| [jQuery][25]                       | [Fellowship of the DOM][1044]                |
+|                                    | [TV Browser] [1045]
 
 #### [Outcomes Topics](#outcomes-topics)
 Some dates To Be Determined
@@ -219,9 +219,9 @@ Some dates To Be Determined
 [12]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-callbacks-iterators/readme.html
 [13]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-intro/readme.html
 [14]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-plugins/readme.html
-[15]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-ajax/readme.html
+[15]: https://wdi-sg.github.io/gitbook-2018/02-js/js-ajax/readme.html
 [16]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-responsive-design/readme.html
-[17]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-bootstrap/readme.html
+[17]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-bootstrap/readme.html
 [18]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/user-stories-wireframing/readme.html
 [19]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-prototypes/01readme.html
 [20]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-tdd-intro/readme.html
@@ -229,7 +229,7 @@ Some dates To Be Determined
 [22]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-inheritance/01readme.html
 [23]: https://wdi-sg.github.io/gitbook-2018/00-config-deployment/installfest/readme.html
 [24]: https://jeremiahalex.gitbooks.io/wdi-sg/content/00-config-deployment/deploy-github-pages/readme.html
-[25]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-next/readme.html
+[25]: https://wdi-sg.github.io/gitbook-2018/02-js/js-jquery/01readme.html
 [26]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-events/scope.html
 [27]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-manipulation/
 
@@ -281,6 +281,7 @@ Some dates To Be Determined
 [1042]: https://github.com/wdi-sg/ttmar
 [1043]: https://github.com/wdi-sg/choose_your_own_adventure_js
 [1044]: https://github.com/wdi-sg/fellowship-of-the-dom
+[1045]: https://github.com/wdi-sg/tv-browser
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
