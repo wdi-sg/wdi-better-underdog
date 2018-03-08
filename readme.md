@@ -24,11 +24,32 @@
   - Weekday Office Hours: 9am - 5pm (Offline) / 5pm - 8pm (Online)
 
 
+## Repositories
 
-
+- [Akira Wong](https://github.com/awongh)
+- [Ray Tham](https://github.com/raywtham)
+- [Nick Ang](https://github.com/nickangtc)
+- [Chee Kean](https://github.com/ckkok)
+- [Jerry Pan](https://github.com/jerrypan90)
+- [Jed Chua](https://github.com/jchuay)
+- [Walter Yan](https://github.com/WalterWx)
+- [Alice Lim](https://github.com/tiffam)
+- [Jian Hao Tan](https://github.com/jaanhio)
+- [Jacob Tan](https://github.com/enkai87)
+- [Scott Lee](https://github.com/scott88lee)
+- [Alethea Toh](https://github.com/aletheatoh)
+- [Greta Leow](https://github.com/highleow)
+- [Seliyan Silvarajoo](https://github.com/seliyan89)
+- [Elaine Choo](https://github.com/ElaineChoo)
+- [Jerome Christian Ng](https://github.com/stonefruit)
+- [Isa Tokunaga](https://github.com/lajansaa)
+- [Erwin Lee](https://github.com/1ung)
+- [Zheng Win Chua](https://github.com/zw-zack)
+- [Jun Wei Chua](https://github.com/junw3i)
+- [Justin Yap](https://github.com/wenhao-yap)
+- [Edmund Chow](https://github.com/edmundcjj)
 
 ## Important Policies
-[](10 mins)
 
 Please read and adhere to the following, otherwise bad things might happen.
 
@@ -107,12 +128,36 @@ Holidays:
 
 | Topic                              | Assignments
 | ---                                | ---             
-| [Installfest][23]                  |                                      |
-| [JavaScript Primitives][4]         | [Primitives Exercises][1003]         |
-| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]        |
-| [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
-|                                    | [Google Shopping][1002]              |
-|                                    | [Google Shopping Functions][1006]    |
+| [Installfest][23]                  |                                              |
+| [JavaScript Primitives][4]         | [Primitives Exercises][1003]                 |
+| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]                |
+| [JavaScript Functions][10]         | [Functions Problem Set][1007]                |
+| [HTML][5]                          | [Google Shopping][1002]                      |
+| [CSS Selectors][6]                 | [Google Shopping Functions][1006]            |
+| [CSS Box Model][9]                 | [HTML Top Ten Movies Table][1040]            |
+| [DOM and Events][11]               | [Recreate Instagram - CSS Positioning][1041] |
+| [DOM Manipulation][27]             | [Tic Tac Toe][1039]                          |
+| [Javascript Variable Scope][26]    | [Choose Your Own Adventure][1043]            |
+| [AJAX][15]                         | [CSS Airbnb][1024]                           |
+| [Bootstrap][17]                    | [DOM Take the Money and Run][1042]           |
+| [jQuery][25]                       | [Fellowship of the DOM][1044]                |
+|                                    | [TV Browser][1045]
+
+#### [Outcomes Topics](#outcomes-topics)
+Some dates To Be Determined
+
+
+| Topic                                   | Week  |
+| ---                                     | ---   |         
+| Intro to Outcomes                       |  2    |
+| Alumni Panel                            |  3    |
+| Resume Writing / Linkedin               |  4    |
+| Resume Writing                          |  TBD  |
+| Job Search Strategy + Branding / Pitch  |  TBD  |
+| Interview, Negotiations, Fill the Role  |  TBD  |
+| Company Campus Visit                    |  TBD  |
+| Mock Interviews                         |  TBD  |
+
 
 
 
@@ -165,18 +210,18 @@ Holidays:
 [2]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/command-line/01readme.html
 [3]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/intro-git/readme.html
 [4]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/readme.html
-[5]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/html-review/readme.html
-[6]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-selectors/readme.html
+[5]: https://wdi-sg.github.io/gitbook-2018/03-html-css/html-review/readme.html
+[6]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-selectors/readme.html
 [7]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/js-control-flow/readme.html
-[9]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-box-model/readme.html
+[9]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-box-model/readme.html
 [10]: https://wdi-sg.github.io/gitbook-2018/02-js/js-functions/readme.html
-[11]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-events/readme.html
+[11]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-events/readme.html
 [12]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-callbacks-iterators/readme.html
 [13]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-intro/readme.html
 [14]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-plugins/readme.html
-[15]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-ajax/readme.html
+[15]: https://wdi-sg.github.io/gitbook-2018/02-js/js-ajax/readme.html
 [16]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-responsive-design/readme.html
-[17]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-bootstrap/readme.html
+[17]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-bootstrap/readme.html
 [18]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/user-stories-wireframing/readme.html
 [19]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-prototypes/01readme.html
 [20]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-tdd-intro/readme.html
@@ -184,7 +229,9 @@ Holidays:
 [22]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-inheritance/01readme.html
 [23]: https://wdi-sg.github.io/gitbook-2018/00-config-deployment/installfest/readme.html
 [24]: https://jeremiahalex.gitbooks.io/wdi-sg/content/00-config-deployment/deploy-github-pages/readme.html
-[25]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-next/readme.html
+[25]: https://wdi-sg.github.io/gitbook-2018/02-js/js-jquery/01readme.html
+[26]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-events/scope.html
+[27]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-manipulation/
 
 [900]: https://github.com/wdi-sg/html_top_ten_movies_table
 [901]: https://github.com/wdi-sg/html_user_inputs
@@ -228,6 +275,13 @@ Holidays:
 [1036]: https://github.com/wdi-sg/js-clock-intervals
 [1037]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-events/readme.html
 [1038]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-manipulation/
+[1039]: https://github.com/wdi-sg/tictactoe-textbased
+[1040]: https://github.com/wdi-sg/html_top_ten_movies_table
+[1041]: https://github.com/wdi-sg/css-positioning
+[1042]: https://github.com/wdi-sg/ttmar
+[1043]: https://github.com/wdi-sg/choose_your_own_adventure_js
+[1044]: https://github.com/wdi-sg/fellowship-of-the-dom
+[1045]: https://github.com/wdi-sg/tv-browser
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
@@ -358,4 +412,3 @@ Holidays:
 [1315]: https://github.com/wdi-sg/interview-questions
 [1316]: https://github.com/wdi-sg/react-stopwatch
 [1317]: https://github.com/wdi-sg/react-yearbook
-
