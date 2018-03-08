@@ -8,6 +8,8 @@ Everyone will get a chance to **be creative**, and work through some really **to
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
 
+We will be doing an app [soft launch](/soft-launch.md) two days before the project due date.
+
 ---
 
 ### Technical Considerations
