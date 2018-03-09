@@ -95,16 +95,20 @@ Holidays:
 ---
 
 #### Course Weekly Schedule
-| section   | topic                               |
-| ---       | ---                                 |
-| unit 1    | front end                           |
-| project 1 | game                                |
-| unit 2    | back-end                            |
-| project 2 | server-side app                     |
-| unit 3    | back-end frameworks (Ruby-on-Rails) |
-| project 3 | group project                       |
-| unit 4    | front-end frameworks                |
-| project 4 | capstone project                    |
+| section             | topic                                                         |
+| ---                 | ---                                                           |
+| unit 1    - week 1  | javascript, css, html                                         |
+| unit 1    - week 2  | client-side javascript, css                                   |
+| project 1 - week 3  | game project                                                  |
+| unit 2    - week 4  | ES6, node.js, npm, express, REST, CRUD, disk-storage          |
+| unit 2    - week 5  | cookies, authentication, server deployment, RDBMS, postgresql |
+| project 2 - week 6  | server-side express.js app                                    |
+| unit 3    - week 7  | Ruby, OOP, MVC, Rails, Active Record                          |
+| unit 3    - week 8  | Moar Rails, Sass, Devise User Auth, team git                  |     
+| project 3 - week 9  | group project                                                 |
+| unit 4    - week 10 | React.js                                                      |
+| unit 4    - week 11 | Front-end build tools (webpack)                               |
+| project 4 - week 12 | capstone project                                              |
 
 ---
 
