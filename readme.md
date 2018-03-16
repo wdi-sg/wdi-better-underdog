@@ -113,7 +113,7 @@ Take this chance to learn cool things from one another, and ask questions that y
 
 #### 3. Post-mortem
 
-Finally, we'll do 1-on-1 project post-mortems with all students. Read details about [post-mortem format](project-1/project-post-mortem.md).
+Finally, we'll do 1-on-1 project post-mortems with all students. Read details about [post-mortem format](project-1/project-post-mortem.md) (note: you'll need to prepare for it).
 
 ---
 
