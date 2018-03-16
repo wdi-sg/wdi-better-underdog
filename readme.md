@@ -31,7 +31,7 @@
 - [Nick Ang](https://github.com/nickangtc)
 - [Chee Kean](https://github.com/ckkok)
 - [Jerry Pan](https://github.com/jerrypan90)
-- [Jed Chua](https://github.com/jchuay)
+- [Jed Chua](https://github.com/jchuajy)
 - [Walter Yan](https://github.com/WalterWx)
 - [Alice Lim](https://github.com/tiffam)
 - [Jian Hao Tan](https://github.com/jaanhio)
