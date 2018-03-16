@@ -82,19 +82,20 @@ Practice Work: 80% needs to be submitted for completion. Please submit [here](ht
 Projects: Everyone should complete the minimum requirements for each project in order for this course to be considered completed.
 
 Submissions are via github [pull request.](https://wdi-sg.github.io/gitbook-2018/01-workflow/how-to-practice.html)
+
 ---
 
-## Project Presentation
+#### Project Presentation format
 
 At the end of project week, all students will have the opportunity to share their hard work with the rest of the class. (Fun!)
 
 There will be 3 parts to project presentation day:
 
-- Individual project presentations
-- Open bazaar
-- Post-mortem
+1. Individual project presentations
+2. Open bazaar
+3. Post-mortem
 
-#### Individual project presentations
+#### 1. Individual project presentations
 
 Every student gets __5 minutes__ to _demo_ her/his project to the class.
 
@@ -102,7 +103,7 @@ Show the product, not talk about specific parts of code, unless it's something r
 
 If you are not presenting, note down questions/comments you have for the presenter because later on, you'll be able to ask/tell them...
 
-#### Open bazaar
+#### 2. Open bazaar
 
 After everyone has presented, we transition to an open bazaar concept.
 
@@ -110,9 +111,11 @@ Pick a spot in the classroom, set up your laptop, and talk to whoever is interes
 
 Take this chance to learn cool things from one another, and ask questions that you didn't get to ask during the presentations.
 
-#### Post-mortem
+#### 3. Post-mortem
 
 Finally, we'll do 1-on-1 project post-mortems with all students. Read details about [post-mortem format](project-1/project-post-mortem.md).
+
+---
 
 #### Course Schedule
 
