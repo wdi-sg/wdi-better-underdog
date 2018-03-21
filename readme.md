@@ -115,6 +115,29 @@ Take this chance to learn cool things from one another, and ask questions that y
 
 Finally, we'll do 1-on-1 project post-mortems with all students. Read details about [post-mortem format](project-1/project-post-mortem.md) (note: you'll need to prepare for it).
 
+|Name |Project 1 | Proejct 2 | Project 3 | Project 4|
+|---|---|---|---|---|
+| [Chee Kean](https://github.com/ckkok)|
+| [Jerry Pan](https://github.com/jerrypan90)|
+| [Jed Chua](https://github.com/jchuajy)|
+| [Walter Yan](https://github.com/WalterWx)|
+| [Alice Lim](https://github.com/tiffam)|
+| [Jian Hao Tan](https://github.com/jaanhio)|
+| [Jacob Tan](https://github.com/enkai87)|
+| [Scott Lee](https://github.com/scott88lee)|
+| [Alethea Toh](https://github.com/aletheatoh)|
+| [Greta Leow](https://github.com/highleow)|
+| [Seliyan Silvarajoo](https://github.com/seliyan89)|
+| [Elaine Choo](https://github.com/ElaineChoo)|
+| [Jerome Christian Ng](https://github.com/stonefruit)|
+| [Isa Tokunaga](https://github.com/lajansaa)|
+| [Erwin Lee](https://github.com/1ung)|
+| [Zheng Win Chua](https://github.com/zw-zack)|
+| [Jun Wei Chua](https://github.com/junw3i)|
+| [Justin Yap](https://github.com/wenhao-yap)|
+| [Edmund Chow](https://github.com/edmundcjj)|
+
+
 ---
 
 #### Course Schedule
