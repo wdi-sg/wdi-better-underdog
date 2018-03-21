@@ -120,10 +120,10 @@ Finally, we'll do 1-on-1 project post-mortems with all students. Read details ab
 |---|---|---|---|---|
 | [Chee Kean](https://github.com/ckkok)|[MUD](https://github.com/CKKOK/mud)||||
 | [Jerry Pan](https://github.com/jerrypan90)|[Snake](https://github.com/jerrypan90/project1_snakeGame)||||
-| [Jed Chua](https://github.com/jchuajy)|
+| [Jed Chua](https://github.com/jchuajy)|[Game](https://github.com/jchuajy/Project-1-The-Game)||||
 | [Walter Yan](https://github.com/WalterWx)|
-| [Alice Lim](https://github.com/tiffam)|
-| [Jian Hao Tan](https://github.com/jaanhio)|
+| [Alice Lim](https://github.com/tiffam)|[Bubble Pop](https://github.com/tiffam/Bubble-Pop)||||
+| [Jian Hao Tan](https://github.com/jaanhio)|[Brain Fitness Test](https://github.com/jaanhio/brain_fitness_test)||||
 | [Jacob Tan](https://github.com/enkai87)|
 | [Scott Lee](https://github.com/scott88lee)|
 | [Alethea Toh](https://github.com/aletheatoh)|
