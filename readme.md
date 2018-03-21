@@ -180,6 +180,16 @@ Holidays:
 | [jQuery][25]                       | [Fellowship of the DOM][1044]                |
 |                                    | [TV Browser][1045]
 
+#### Back-End Javascript
+
+| Topic                              | Assignments
+| ---                                | ---             
+| [Internet Fundamentals][28] |
+| [ES6][29] |
+| [Intro to Node][30] |
+| [Intro to Express][31] |
+  
+
 #### [Outcomes Topics](#outcomes-topics)
 Some dates To Be Determined
 
@@ -269,6 +279,10 @@ Some dates To Be Determined
 [25]: https://wdi-sg.github.io/gitbook-2018/02-js/js-jquery/01readme.html
 [26]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-events/scope.html
 [27]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-manipulation/
+[28]: https://wdi-sg.github.io/gitbook-2018/04-server/how-the-internet-works.html
+[29]: https://wdi-sg.github.io/gitbook-2018/04-server/00es6.html
+[30]: https://wdi-sg.github.io/gitbook-2018/04-server/00node.html
+[31]: https://wdi-sg.github.io/gitbook-2018/05-express/express-intro/01express.html
 
 [900]: https://github.com/wdi-sg/html_top_ten_movies_table
 [901]: https://github.com/wdi-sg/html_user_inputs
