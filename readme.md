@@ -115,10 +115,11 @@ Take this chance to learn cool things from one another, and ask questions that y
 
 Finally, we'll do 1-on-1 project post-mortems with all students. Read details about [post-mortem format](project-1/project-post-mortem.md) (note: you'll need to prepare for it).
 
-|Name |Project 1 | Proejct 2 | Project 3 | Project 4|
+### Projects
+|Name |Project 1 | Project 2 | Project 3 | Project 4|
 |---|---|---|---|---|
-| [Chee Kean](https://github.com/ckkok)|
-| [Jerry Pan](https://github.com/jerrypan90)|
+| [Chee Kean](https://github.com/ckkok)|MUD(https://github.com/CKKOK/mud)||||
+| [Jerry Pan](https://github.com/jerrypan90)|Snake(https://github.com/jerrypan90/project1_snakeGame)||||
 | [Jed Chua](https://github.com/jchuajy)|
 | [Walter Yan](https://github.com/WalterWx)|
 | [Alice Lim](https://github.com/tiffam)|
