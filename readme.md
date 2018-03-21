@@ -184,7 +184,7 @@ Holidays:
 
 | Topic                              | Assignments
 | ---                                | ---             
-| [Internet Fundamentals][28] |
+| [Internet Fundamentals][28] | [Pokedex Express][1046]
 | [ES6][29] |
 | [Intro to Node][30] |
 | [Intro to Express][31] |
@@ -333,6 +333,7 @@ Some dates To Be Determined
 [1043]: https://github.com/wdi-sg/choose_your_own_adventure_js
 [1044]: https://github.com/wdi-sg/fellowship-of-the-dom
 [1045]: https://github.com/wdi-sg/tv-browser
+[1046]: https://github.com/wdi-sg/pokedex-express
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
