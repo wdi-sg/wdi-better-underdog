@@ -38,7 +38,7 @@
 - [Jacob Tan](https://github.com/enkai87)
 - [Scott Lee](https://github.com/scott88lee)
 - [Alethea Toh](https://github.com/aletheatoh)
-- [Greta Leow](https://github.com/highleow)
+- [Greta Leow](https://github.com/hghleow)
 - [Seliyan Silvarajoo](https://github.com/seliyan89)
 - [Elaine Choo](https://github.com/ElaineChoo)
 - [Jerome Christian Ng](https://github.com/stonefruit)
@@ -125,18 +125,18 @@ Finally, we'll do 1-on-1 project post-mortems with all students. Read details ab
 | [Alice Lim](https://github.com/tiffam)|[Bubble Pop](https://github.com/tiffam/Bubble-Pop)||||
 | [Jian Hao Tan](https://github.com/jaanhio)|[Brain Fitness Test](https://github.com/jaanhio/brain_fitness_test)||||
 | [Jacob Tan](https://github.com/enkai87)|
-| [Scott Lee](https://github.com/scott88lee)|
-| [Alethea Toh](https://github.com/aletheatoh)|
-| [Greta Leow](https://github.com/highleow)|
+| [Scott Lee](https://github.com/scott88lee)|[FOMO](https://github.com/scott88lee/FOMO)||||
+| [Alethea Toh](https://github.com/aletheatoh)|[Chain Reaction](https://github.com/aletheatoh/chain-reaction)||||
+| [Greta Leow](https://github.com/hghleow)|[Driving 101](https://github.com/hghleow/project-1)||||
 | [Seliyan Silvarajoo](https://github.com/seliyan89)|
-| [Elaine Choo](https://github.com/ElaineChoo)|
+| [Elaine Choo](https://github.com/ElaineChoo)|[Singapore Life "Adventure"](https://github.com/ElaineChoo/project1)||||
 | [Jerome Christian Ng](https://github.com/stonefruit)|
-| [Isa Tokunaga](https://github.com/lajansaa)|
-| [Erwin Lee](https://github.com/1ung)|
-| [Zheng Win Chua](https://github.com/zw-zack)|
-| [Jun Wei Chua](https://github.com/junw3i)|
-| [Justin Yap](https://github.com/wenhao-yap)|
-| [Edmund Chow](https://github.com/edmundcjj)|
+| [Isa Tokunaga](https://github.com/lajansaa)|[Baby Monkey](https://github.com/lajansaa/game-project)||||
+| [Erwin Lee](https://github.com/1ung)|[Speedtyping](https://github.com/1ung/game_project_1)||||
+| [Zheng Win Chua](https://github.com/zw-zack)|[GA--Project-One](https://github.com/zw-zack/GA--Project-One)||||
+| [Jun Wei Chua](https://github.com/junw3i)|[Robot Wars](https://github.com/junw3i/robot-wars)||||
+| [Justin Yap](https://github.com/wenhao-yap)|[Dangerous Jungle](https://github.com/wenhao-yap/Project1_wdi)||||
+| [Edmund Chow](https://github.com/edmundcjj)|[Let's Hoot](https://github.com/edmundcjj/Lets-Hoot-)||||
 
 
 ---
