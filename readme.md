@@ -120,7 +120,7 @@ Finally, we'll do 1-on-1 project post-mortems with all students. Read details ab
 |---|---|---|---|---|
 | [Chee Kean](https://github.com/ckkok)|[MUD](https://github.com/CKKOK/mud)||||
 | [Jerry Pan](https://github.com/jerrypan90)|[Snake](https://github.com/jerrypan90/project1_snakeGame)||||
-| [Jed Chua](https://github.com/jchuajy)|[Game](https://github.com/jchuajy/Project-1-The-Game)||||
+| [Jed Chua](https://github.com/jchuajy)|[Escape of Exiles](https://github.com/jchuajy/Project-1-The-Game)||||
 | [Walter Yan](https://github.com/WalterWx)|
 | [Alice Lim](https://github.com/tiffam)|[Bubble Pop](https://github.com/tiffam/Bubble-Pop)||||
 | [Jian Hao Tan](https://github.com/jaanhio)|[Brain Fitness Test](https://github.com/jaanhio/brain_fitness_test)||||
@@ -133,7 +133,7 @@ Finally, we'll do 1-on-1 project post-mortems with all students. Read details ab
 | [Jerome Christian Ng](https://github.com/stonefruit)|
 | [Isa Tokunaga](https://github.com/lajansaa)|[Baby Monkey](https://github.com/lajansaa/game-project)||||
 | [Erwin Lee](https://github.com/1ung)|[Speedtyping](https://github.com/1ung/game_project_1)||||
-| [Zheng Win Chua](https://github.com/zw-zack)|[GA--Project-One](https://github.com/zw-zack/GA--Project-One)||||
+| [Zheng Win Chua](https://github.com/zw-zack)|Survive!](https://github.com/zw-zack/GA--Project-One)||||
 | [Jun Wei Chua](https://github.com/junw3i)|[Robot Wars](https://github.com/junw3i/robot-wars)||||
 | [Justin Yap](https://github.com/wenhao-yap)|[Dangerous Jungle](https://github.com/wenhao-yap/Project1_wdi)||||
 | [Edmund Chow](https://github.com/edmundcjj)|[Let's Hoot](https://github.com/edmundcjj/Lets-Hoot-)||||
