@@ -209,9 +209,11 @@ Holidays:
 | Topic                              | Assignments
 | ---                                | ---             
 | [Internet Fundamentals][28] | [Pokedex Express][1046]
-| [ES6][29] |
-| [Intro to Node][30] |
-| [Intro to Express][31] |
+| [ES6][29] | [Pokedex Express - Post][1047]
+| [Intro to Node][30] | [Pokedex Express - Update & Delete][1048]
+| [Intro to Express][31] | [Pokedex Express - Authentication][1049]
+| [CRUD in Express][32] |
+| [Express Authentication][33]|
   
 
 #### [Outcomes Topics](#outcomes-topics)
@@ -307,6 +309,8 @@ Some dates To Be Determined
 [29]: https://wdi-sg.github.io/gitbook-2018/04-server/00es6.html
 [30]: https://wdi-sg.github.io/gitbook-2018/04-server/00node.html
 [31]: https://wdi-sg.github.io/gitbook-2018/05-express/express-intro/01express.html
+[32]: https://wdi-sg.github.io/gitbook-2018/05-express/express-intro/05crudexpress.html
+[33]: https://wdi-sg.github.io/gitbook-2018/05-express/express-auth/readme.html
 
 [900]: https://github.com/wdi-sg/html_top_ten_movies_table
 [901]: https://github.com/wdi-sg/html_user_inputs
@@ -358,6 +362,9 @@ Some dates To Be Determined
 [1044]: https://github.com/wdi-sg/fellowship-of-the-dom
 [1045]: https://github.com/wdi-sg/tv-browser
 [1046]: https://github.com/wdi-sg/pokedex-express
+[1047]: https://github.com/wdi-sg/pokedex-express-post
+[1048]: https://github.com/wdi-sg/pokedex-express-update-delete
+[1049]: https://github.com/wdi-sg/pokedex-express-auth
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
