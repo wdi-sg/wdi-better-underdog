@@ -212,10 +212,10 @@ Holidays:
 | [ES6][29] | [Pokedex Express - Post][1047]
 | [Intro to Node][30] | [Pokedex Express - Update & Delete][1048]
 | [Intro to Express][31] | [Pokedex Express - Authentication][1049]
-| [CRUD in Express][32] |[NBA Stats][1050]
-| [Express Authentication][33]| [Pokedex Express SQL][1051]
-| [Intro to SQL][34]|
-| [SQL & Node][35]|
+| [CRUD in Express][32] |
+| [Express Authentication][33]| 
+| [Intro to SQL][34]| [NBA Stats][1050]
+| [SQL & Node][35]| [Pokedex Express SQL][1051]
 | [Relational SQL Tables][36]|
 
 #### [Outcomes Topics](#outcomes-topics)
