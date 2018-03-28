@@ -213,9 +213,10 @@ Holidays:
 | [Intro to Node][30] | [Pokedex Express - Update & Delete][1048]
 | [Intro to Express][31] | [Pokedex Express - Authentication][1049]
 | [CRUD in Express][32] |[NBA Stats][1050]
-| [Express Authentication][33]|
-|[Intro to SQL][34]|
-|[SQL & Node][35]| 
+| [Express Authentication][33]| [Pokedex Express SQL][1051]
+| [Intro to SQL][34]|
+| [SQL & Node][35]|
+| [Relational SQL Tables][36]|
 
 #### [Outcomes Topics](#outcomes-topics)
 Some dates To Be Determined
@@ -314,6 +315,7 @@ Some dates To Be Determined
 [33]: https://wdi-sg.github.io/gitbook-2018/05-express/express-auth/readme.html
 [34]: https://wdi-sg.github.io/gitbook-2018/04-databases/sql-intro/readme.html
 [35]: https://wdi-sg.github.io/gitbook-2018/04-databases/sql-node.html
+[36]: https://wdi-sg.github.io/gitbook-2018/04-databases/sql-intro/relational.html
 
 [900]: https://github.com/wdi-sg/html_top_ten_movies_table
 [901]: https://github.com/wdi-sg/html_user_inputs
@@ -369,6 +371,7 @@ Some dates To Be Determined
 [1048]: https://github.com/wdi-sg/pokedex-express-update-delete
 [1049]: https://github.com/wdi-sg/pokedex-express-auth
 [1050]: https://github.com/wdi-sg/nba_stats
+[1051]: https://github.com/wdi-sg/pokedex-express-sql/
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
