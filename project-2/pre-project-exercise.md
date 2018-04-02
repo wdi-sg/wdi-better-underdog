@@ -14,4 +14,5 @@ Create four user stories that apply to the functionality for your idea, followin
 
 Make a wireframe for each page you need to fulfill the user stories.
 
+### References
 Refer to the git book on user stories: [https://wdi-sg.github.io/gitbook-2018/01-workflow/user-stories-wireframing/readme.html](https://wdi-sg.github.io/gitbook-2018/01-workflow/user-stories-wireframing/readme.html)
