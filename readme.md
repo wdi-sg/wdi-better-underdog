@@ -31,14 +31,14 @@
 - [Nick Ang](https://github.com/nickangtc)
 - [Chee Kean](https://github.com/ckkok)
 - [Jerry Pan](https://github.com/jerrypan90)
-- [Jed Chua](https://github.com/jchuay)
+- [Jed Chua](https://github.com/jchuajy)
 - [Walter Yan](https://github.com/WalterWx)
 - [Alice Lim](https://github.com/tiffam)
 - [Jian Hao Tan](https://github.com/jaanhio)
 - [Jacob Tan](https://github.com/enkai87)
 - [Scott Lee](https://github.com/scott88lee)
 - [Alethea Toh](https://github.com/aletheatoh)
-- [Greta Leow](https://github.com/highleow)
+- [Greta Leow](https://github.com/hghleow)
 - [Seliyan Silvarajoo](https://github.com/seliyan89)
 - [Elaine Choo](https://github.com/ElaineChoo)
 - [Jerome Christian Ng](https://github.com/stonefruit)
@@ -82,6 +82,63 @@ Practice Work: 80% needs to be submitted for completion. Please submit [here](ht
 Projects: Everyone should complete the minimum requirements for each project in order for this course to be considered completed.
 
 Submissions are via github [pull request.](https://wdi-sg.github.io/gitbook-2018/01-workflow/how-to-practice.html)
+
+---
+
+#### Project Presentation format
+
+At the end of project week, all students will have the opportunity to share their hard work with the rest of the class. (Fun!)
+
+There will be 3 parts to project presentation day:
+
+1. Individual project presentations
+2. Open bazaar
+3. Post-mortem
+
+#### 1. Individual project presentations
+
+Every student gets __5 minutes__ to _demo_ her/his project to the class.
+
+Show the product, not talk about specific parts of code, unless it's something really interesting!
+
+If you are not presenting, note down questions/comments you have for the presenter because later on, you'll be able to ask/tell them...
+
+#### 2. Open bazaar
+
+After everyone has presented, we transition to an open bazaar concept.
+
+Pick a spot in the classroom, set up your laptop, and talk to whoever is interested the details about your project!
+
+Take this chance to learn cool things from one another, and ask questions that you didn't get to ask during the presentations.
+
+#### 3. Post-mortem
+
+Finally, we'll do 1-on-1 project post-mortems with all students. Read details about [post-mortem format](project-1/project-post-mortem.md) (note: you'll need to prepare for it).
+
+### Projects
+|Name |Project 1 | Project 2 | Project 3 | Project 4|
+|---|---|---|---|---|
+| [Chee Kean](https://github.com/ckkok)|[MUD](https://github.com/CKKOK/mud)||||
+| [Jerry Pan](https://github.com/jerrypan90)|[Snake](https://github.com/jerrypan90/project1_snakeGame)||||
+| [Jed Chua](https://github.com/jchuajy)|[Escape of Exiles](https://github.com/jchuajy/Project-1-The-Game)||||
+| [Walter Yan](https://github.com/WalterWx)|
+| [Alice Lim](https://github.com/tiffam)|[Bubble Pop](https://github.com/tiffam/Bubble-Pop)||||
+| [Jian Hao Tan](https://github.com/jaanhio)|[Brain Fitness Test](https://github.com/jaanhio/brain_fitness_test)||||
+| [Jacob Tan](https://github.com/enkai87)|
+| [Scott Lee](https://github.com/scott88lee)|[FOMO](https://github.com/scott88lee/FOMO)||||
+| [Alethea Toh](https://github.com/aletheatoh)|[Chain Reaction](https://github.com/aletheatoh/chain-reaction)||||
+| [Greta Leow](https://github.com/hghleow)|[Driving 101](https://github.com/hghleow/project-1)||||
+| [Seliyan Silvarajoo](https://github.com/seliyan89)|
+| [Elaine Choo](https://github.com/ElaineChoo)|[Singapore Life "Adventure"](https://github.com/ElaineChoo/project1)||||
+| [Jerome Christian Ng](https://github.com/stonefruit)|
+| [Isa Tokunaga](https://github.com/lajansaa)|[Baby Monkey](https://github.com/lajansaa/game-project)||||
+| [Erwin Lee](https://github.com/1ung)|[Speedtyping](https://github.com/1ung/game_project_1)||||
+| [Zheng Win Chua](https://github.com/zw-zack)|[Survive!](https://github.com/zw-zack/GA--Project-One)||||
+| [Jun Wei Chua](https://github.com/junw3i)|[Robot Wars](https://github.com/junw3i/robot-wars)||||
+| [Justin Yap](https://github.com/wenhao-yap)|[Dangerous Jungle](https://github.com/wenhao-yap/Project1_wdi)||||
+| [Edmund Chow](https://github.com/edmundcjj)|[Let's Hoot](https://github.com/edmundcjj/Lets-Hoot-)||||
+
+
 ---
 
 #### Course Schedule
@@ -95,16 +152,20 @@ Holidays:
 ---
 
 #### Course Weekly Schedule
-| section   | topic                               |
-| ---       | ---                                 |
-| unit 1    | front end                           |
-| project 1 | game                                |
-| unit 2    | back-end                            |
-| project 2 | server-side app                     |
-| unit 3    | back-end frameworks (Ruby-on-Rails) |
-| project 3 | group project                       |
-| unit 4    | front-end frameworks                |
-| project 4 | capstone project                    |
+| section             | topic                                                         |
+| ---                 | ---                                                           |
+| unit 1    - week 1  | javascript, css, html                                         |
+| unit 1    - week 2  | client-side javascript, css                                   |
+| project 1 - week 3  | game project                                                  |
+| unit 2    - week 4  | ES6, node.js, npm, express, REST, CRUD, disk-storage          |
+| unit 2    - week 5  | cookies, authentication, server deployment, RDBMS, postgresql |
+| project 2 - week 6  | server-side express.js app                                    |
+| unit 3    - week 7  | Ruby, OOP, MVC, Rails, Active Record                          |
+| unit 3    - week 8  | Moar Rails, Sass, Devise User Auth, team git                  |     
+| project 3 - week 9  | group project                                                 |
+| unit 4    - week 10 | React.js                                                      |
+| unit 4    - week 11 | Front-end build tools (webpack)                               |
+| project 4 - week 12 | capstone project                                              |
 
 ---
 
@@ -142,6 +203,20 @@ Holidays:
 | [Bootstrap][17]                    | [DOM Take the Money and Run][1042]           |
 | [jQuery][25]                       | [Fellowship of the DOM][1044]                |
 |                                    | [TV Browser][1045]
+
+#### Back-End Javascript
+
+| Topic                              | Assignments
+| ---                                | ---             
+| [Internet Fundamentals][28] | [Pokedex Express][1046]
+| [ES6][29] | [Pokedex Express - Post][1047]
+| [Intro to Node][30] | [Pokedex Express - Update & Delete][1048]
+| [Intro to Express][31] | [Pokedex Express - Authentication][1049]
+| [CRUD in Express][32] |
+| [Express Authentication][33]| 
+| [Intro to SQL][34]| [NBA Stats][1050]
+| [SQL & Node][35]| [Pokedex Express SQL][1051]
+| [Relational SQL Tables][36]|
 
 #### [Outcomes Topics](#outcomes-topics)
 Some dates To Be Determined
@@ -232,6 +307,15 @@ Some dates To Be Determined
 [25]: https://wdi-sg.github.io/gitbook-2018/02-js/js-jquery/01readme.html
 [26]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-events/scope.html
 [27]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-manipulation/
+[28]: https://wdi-sg.github.io/gitbook-2018/04-server/how-the-internet-works.html
+[29]: https://wdi-sg.github.io/gitbook-2018/04-server/00es6.html
+[30]: https://wdi-sg.github.io/gitbook-2018/04-server/00node.html
+[31]: https://wdi-sg.github.io/gitbook-2018/05-express/express-intro/01express.html
+[32]: https://wdi-sg.github.io/gitbook-2018/05-express/express-intro/05crudexpress.html
+[33]: https://wdi-sg.github.io/gitbook-2018/05-express/express-auth/readme.html
+[34]: https://wdi-sg.github.io/gitbook-2018/04-databases/sql-intro/readme.html
+[35]: https://wdi-sg.github.io/gitbook-2018/04-databases/sql-node.html
+[36]: https://wdi-sg.github.io/gitbook-2018/04-databases/sql-intro/relational.html
 
 [900]: https://github.com/wdi-sg/html_top_ten_movies_table
 [901]: https://github.com/wdi-sg/html_user_inputs
@@ -282,6 +366,12 @@ Some dates To Be Determined
 [1043]: https://github.com/wdi-sg/choose_your_own_adventure_js
 [1044]: https://github.com/wdi-sg/fellowship-of-the-dom
 [1045]: https://github.com/wdi-sg/tv-browser
+[1046]: https://github.com/wdi-sg/pokedex-express
+[1047]: https://github.com/wdi-sg/pokedex-express-post
+[1048]: https://github.com/wdi-sg/pokedex-express-update-delete
+[1049]: https://github.com/wdi-sg/pokedex-express-auth
+[1050]: https://github.com/wdi-sg/nba_stats
+[1051]: https://github.com/wdi-sg/pokedex-express-sql/
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html

@@ -8,6 +8,10 @@ Everyone will get a chance to **be creative**, and work through some really **to
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
 
+One instructor will approve your project before you begin. Please prepare the [pre-project materials.](/pre-project-exercise.md)
+
+We will be doing an app [soft launch](/soft-launch.md) two days before the project due date.
+
 ---
 
 ### Technical Considerations
@@ -44,6 +48,10 @@ Your app should:
 * **Don't be afraid to write code that you know you will have to remove later.** Create temporary elements (buttons, links, etc) that trigger events if real data is not available. For example, if you're trying to figure out how to change some text when the game is over but you haven't solved the win/lose game logic, you can create a button to simulate that until then.
 
 ---
+### Agile Workflow
+* small problems make large problems easier to solve.
+* agile user stories might not be applicable to all games, but there are [console-style game agile workflows](game-exercise.md) available.
+---
 
 ### Potential Project Ideas
 
@@ -58,6 +66,7 @@ Sometimes just called "Memory", it's a card game in which all of the cards are l
 ## Project Feedback + Evaluation
 Both Project 1a and Project 1b will have the same basic requirements
 
+We will be doing individual feedback for each student. You will be required to complete the [project post-mortem questions](project-post-mortem.md) before you have your one-on-one.
 ---
 
 ### Useful Resources
