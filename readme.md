@@ -218,6 +218,16 @@ Holidays:
 | [SQL & Node][35]| [Pokedex Express SQL][1051]
 | [Relational SQL Tables][36]|
 
+#### Object Oriented Programming, Ruby on Rails
+
+| Topic                              | Assignments
+| ---                                | ---             
+| [Intro to Ruby][37]| [google shopping conditional loops ruby][1052]
+| [Object Oriented Programming][38]| [google shopping functions ruby][1053]
+| [Ruby Classes][39]| [ruby oop cards][1054]
+| [Activerecord][40]| [activerecord cards][1055]
+| [Intro to Rails][41]|[pokedex rails][1056]
+| [Layouts, Views][42]|
 #### [Outcomes Topics](#outcomes-topics)
 Some dates To Be Determined
 
@@ -316,6 +326,12 @@ Some dates To Be Determined
 [34]: https://wdi-sg.github.io/gitbook-2018/04-databases/sql-intro/readme.html
 [35]: https://wdi-sg.github.io/gitbook-2018/04-databases/sql-node.html
 [36]: https://wdi-sg.github.io/gitbook-2018/04-databases/sql-intro/relational.html
+[37]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/ruby-intro/readme.html
+[38]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/ruby-classes/oop.html
+[39]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/ruby-classes/readme.html
+[40]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-intro/active_record/readme.html
+[41]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-intro/readme.html
+[42]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-intro/views.html
 
 [900]: https://github.com/wdi-sg/html_top_ten_movies_table
 [901]: https://github.com/wdi-sg/html_user_inputs
@@ -372,6 +388,11 @@ Some dates To Be Determined
 [1049]: https://github.com/wdi-sg/pokedex-express-auth
 [1050]: https://github.com/wdi-sg/nba_stats
 [1051]: https://github.com/wdi-sg/pokedex-express-sql/
+[1052]: https://github.com/wdi-sg/google-shopping-conditional-loops-ruby
+[1053]: https://github.com/wdi-sg/google-shopping-functions-ruby
+[1054]: https://github.com/wdi-sg/ruby-oop-cards
+[1055]: https://github.com/wdi-sg/activerecord-cards
+[1056]: https://github.com/wdi-sg/pokedex-rails
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
