@@ -13,3 +13,6 @@ Create four user stories that apply to the functionality for your idea, followin
 ## Wireframing
 
 Make a wireframe for each page you need to fulfill the user stories.
+
+## ERD
+Create an ERD for your app.
