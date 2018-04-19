@@ -11,6 +11,22 @@ Not only will you be asked to **exercise additional creativity** in designing yo
 Make it work, and make it awesome.
 
 ---
+### WDI14 Project groups assignments [(randomised)][[https://repl.it/@raywtham/Group-generator]
+```
+18 people, 6 groups
+1. ["Isa Tokunaga", "Alethea Toh", "Jian Hao Tan"] 3 members 
+ 
+2. ["Jacob Tan", "Chee Kean", "Jerry Pan"] 3 members 
+ 
+3. ["Zheng Win Chua", "Edmund Chow", "Justin Yap"] 3 members 
+ 
+4. ["Scott Lee", "Jun Wei Chua", "Erwin Lee"] 3 members 
+ 
+5. ["Alice Lim", "Walter Yan", "Jerome Christian Ng"] 3 members 
+ 
+6. ["Elaine Choo", "Jed Chua", "Seliyan Silvarajoo"] 3 members 
+```
+---
 
 ### Premise: Startup in a Week
 
@@ -81,20 +97,3 @@ The project is meant to demonstrate that everyone is minimally capable of __appl
 Given __Bloom's Taxonomy__ students should be able to apply their knowledge of Rails, MVC, CRUD and Active Record. Students must remember enough of the concepts to to understand how to apply their knowledge / build this project.
 
 ![https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Blooms-Taxonomy-650x366.jpg](https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Blooms-Taxonomy-650x366.jpg)
-
----
-### WDI14 Project groups
-```
-18 people, 6 groups
-1. ["Isa Tokunaga", "Alethea Toh", "Jian Hao Tan"] 3 members 
- 
-2. ["Jacob Tan", "Chee Kean", "Jerry Pan"] 3 members 
- 
-3. ["Zheng Win Chua", "Edmund Chow", "Justin Yap"] 3 members 
- 
-4. ["Scott Lee", "Jun Wei Chua", "Erwin Lee"] 3 members 
- 
-5. ["Alice Lim", "Walter Yan", "Jerome Christian Ng"] 3 members 
- 
-6. ["Elaine Choo", "Jed Chua", "Seliyan Silvarajoo"] 3 members 
-```
