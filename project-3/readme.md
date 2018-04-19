@@ -28,8 +28,8 @@ Make it work, and make it awesome.
 ```
 ---
 ### Dates:
-Friday April 27: Soft-launch
-Wednesday May 2: Project Presentation
+- Friday April 27: Soft-launch
+- Wednesday May 2: Project Presentation
 ---
 
 ### Premise: Startup in a Week
