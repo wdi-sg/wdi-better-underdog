@@ -82,3 +82,19 @@ Given __Bloom's Taxonomy__ students should be able to apply their knowledge of R
 
 ![https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Blooms-Taxonomy-650x366.jpg](https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Blooms-Taxonomy-650x366.jpg)
 
+---
+### WDI14 Project groups
+```
+18 people, 6 groups
+1. ["Isa Tokunaga", "Alethea Toh", "Jian Hao Tan"] 3 members 
+ 
+2. ["Jacob Tan", "Chee Kean", "Jerry Pan"] 3 members 
+ 
+3. ["Zheng Win Chua", "Edmund Chow", "Justin Yap"] 3 members 
+ 
+4. ["Scott Lee", "Jun Wei Chua", "Erwin Lee"] 3 members 
+ 
+5. ["Alice Lim", "Walter Yan", "Jerome Christian Ng"] 3 members 
+ 
+6. ["Elaine Choo", "Jed Chua", "Seliyan Silvarajoo"] 3 members 
+```
