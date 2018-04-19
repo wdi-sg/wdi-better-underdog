@@ -27,6 +27,10 @@ Make it work, and make it awesome.
 6. ["Elaine Choo", "Jed Chua", "Seliyan Silvarajoo"] 3 members 
 ```
 ---
+### Dates:
+Friday April 27: Soft-launch
+Wednesday May 2: Project Presentation
+---
 
 ### Premise: Startup in a Week
 
