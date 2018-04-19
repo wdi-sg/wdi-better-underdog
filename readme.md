@@ -226,12 +226,12 @@ Holidays:
 | [Object Oriented Programming][38]| [google shopping functions ruby][1053]
 | [Ruby Classes][39]| [ruby oop cards][1054]
 | [Activerecord][40]| [activerecord cards][1055]
-| [Intro to Rails][41]|[pokedex rails][1056]
+| [Intro to Rails][41]| [pokedex rails][1056]
 | [Layouts, Views][42]| [sortify rails][[1057]
 | [Rails Auth & 1-M][43]|[rails auth checks][1058]
 | [Rails M-M][44]|
-| [Validations[45]|
-| [Asset pipeline[46]|
+| [Validations][45]|
+| [Asset pipeline][46]|
 
 #### [Outcomes Topics](#outcomes-topics)
 Some dates To Be Determined
