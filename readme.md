@@ -227,7 +227,12 @@ Holidays:
 | [Ruby Classes][39]| [ruby oop cards][1054]
 | [Activerecord][40]| [activerecord cards][1055]
 | [Intro to Rails][41]|[pokedex rails][1056]
-| [Layouts, Views][42]|
+| [Layouts, Views][42]| [sortify rails][[1057]
+| [Rails Auth & 1-M][43]|[rails auth checks][1058]
+| [Rails M-M][44]|
+| [Validations[45]|
+| [Asset pipeline[46]|
+
 #### [Outcomes Topics](#outcomes-topics)
 Some dates To Be Determined
 
@@ -332,6 +337,10 @@ Some dates To Be Determined
 [40]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-intro/active_record/readme.html
 [41]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-intro/readme.html
 [42]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-intro/views.html
+[43]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-auth-1-M/readme.html
+[44]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-M-M/readme.html
+[45]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-validation/readme.html
+[46]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-assets-frontend/readme.html
 
 [900]: https://github.com/wdi-sg/html_top_ten_movies_table
 [901]: https://github.com/wdi-sg/html_user_inputs
@@ -393,6 +402,8 @@ Some dates To Be Determined
 [1054]: https://github.com/wdi-sg/ruby-oop-cards
 [1055]: https://github.com/wdi-sg/activerecord-cards
 [1056]: https://github.com/wdi-sg/pokedex-rails
+[1057]: https://github.com/wdi-sg/sortify-rails
+[1058]: https://github.com/wdi-sg/rails-auth-checks/
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
