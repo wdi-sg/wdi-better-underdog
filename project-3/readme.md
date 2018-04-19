@@ -11,7 +11,7 @@ Not only will you be asked to **exercise additional creativity** in designing yo
 Make it work, and make it awesome.
 
 ---
-### WDI14 Project groups assignments [randomised][https://repl.it/@raywtham/Group-generator]
+### WDI14 Project groups assignments [randomised](https://repl.it/@raywtham/Group-generator)
 ```
 18 people, 6 groups
 1. ["Isa Tokunaga", "Alethea Toh", "Jian Hao Tan"] 3 members 
