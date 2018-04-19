@@ -64,7 +64,8 @@ Your app should also have:
 * **Don’t hesitate to write throwaway code** to solve short term problems.
 * **Read the docs for whatever technologies / frameworks / APIs you use** In fact, you should most likely tackle your APIs first.
 * **Write your code DRY** and **build your app to be RESTful**.
-* **Be consistent with your code style.** You're working in teams, but you're only making one app per team. Make sure it looks like a unified effort.
+* **Be consistent with your code style.** Use the ruby styleguide. You're working in teams, but you're only making one app per team. Make sure it looks like a unified effort.
+[https://github.com/wdi-sg/ruby-styleguide](https://github.com/wdi-sg/ruby-styleguide)
 * **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version.
 * **Keep user stories small and well-defined**, and remember – user stories focus on what a user needs, not what development tasks need accomplishing.
 * **Write code another developer wouldn't have to ask you about**. Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is?
