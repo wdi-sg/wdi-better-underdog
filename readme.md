@@ -267,6 +267,7 @@ Some dates To Be Determined
 - [Word ladder, Ruby](https://github.com/wdi-sg/word_ladder)
 - [Cellphone, HTML CSS](https://github.com/wdi-sg/cell_phone_html_css)
 - [Poker refactor, Ruby](https://github.com/wdi-sg/poker_refactor)
+- [Fibonacci numbers, JS](https://github.com/wdi-sg/fibonacci-numbers)
 
 
 <!-- References for Additional Materials Section 5xxx -->
