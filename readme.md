@@ -249,6 +249,24 @@ Some dates To Be Determined
 | Mock Interviews                         |  TBD  |
 
 
+#### Morning Exercises
+
+- [Command line murder mystery, CLI](https://github.com/wdi-sg/command-line-murder-mystery)
+- [Airbnb responsive, CSS](https://github.com/wdi-sg/css-airbnb-responsive)
+- [Sum string, JS](https://github.com/wdi-sg/sum-string)
+- [Fashion blog, CSS](https://github.com/wdi-sg/fashion-blog)
+- [Morse code, JS](https://github.com/wdi-sg/morse-code)
+- [Cyphers, JS](https://github.com/wdi-sg/cyphers)
+- [Baconian cipher, JS](https://github.com/wdi-sg/baconian-cipher)
+- [Hyrule potion shop, CSS](https://github.com/wdi-sg/hyrule_potion_shop)
+- [SQL Nintendo 64](https://github.com/wdi-sg/sql-n64-lab)
+- [SQL Joins blog](https://github.com/wdi-sg/sql-join-blog)
+- [Pig latin, Ruby](https://github.com/wdi-sg/piglatin)
+- [Atbash cipher, Ruby](https://github.com/wdi-sg/atbash_cipher)
+- [DNA analyzer, Ruby](https://github.com/wdi-sg/dna_analyzer)
+- [Word ladder, Ruby](https://github.com/wdi-sg/word_ladder)
+- [Cellphone, HTML CSS](https://github.com/wdi-sg/cell_phone_html_css)
+- [Poker refactor, Ruby](https://github.com/wdi-sg/poker_refactor)
 
 
 <!-- References for Additional Materials Section 5xxx -->
