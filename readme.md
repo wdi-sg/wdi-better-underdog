@@ -267,7 +267,12 @@ Some dates To Be Determined
 - [Word ladder, Ruby](https://github.com/wdi-sg/word_ladder)
 - [Cellphone, HTML CSS](https://github.com/wdi-sg/cell_phone_html_css)
 - [Poker refactor, Ruby](https://github.com/wdi-sg/poker_refactor)
+- [Binary search, JS](https://github.com/wdi-sg/binary-search)
+- [Clock intervals, HTML CSS JS](https://github.com/wdi-sg/js-clock-intervals)
 - [Fibonacci numbers, JS](https://github.com/wdi-sg/fibonacci-numbers)
+- [Builtin methods, JS](https://github.com/wdi-sg/builtin-methods)
+- [Supermarket queue, JS](https://github.com/wdi-sg/supermarket-queue)
+
 
 
 <!-- References for Additional Materials Section 5xxx -->
