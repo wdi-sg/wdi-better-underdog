@@ -28,7 +28,6 @@ Your app must:
 * **Be a complete product**, which means that it is usable from head-to-tail, in the environment it is meant for.
 * **Use a database** or way to store your data, whether that's one we've covered in class or one you want to learn
 * **Implement thoughtful user stories** that are significant enough to help you know which features to build and which to scrap
-* **Have a visually impressive design** to kick your portfolio up a notch and have something to wow future clients & employers
 * **Be deployed online** so it's publicly accessible
 
 ---
