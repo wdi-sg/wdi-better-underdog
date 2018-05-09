@@ -226,8 +226,13 @@ Holidays:
 | [Object Oriented Programming][38]| [google shopping functions ruby][1053]
 | [Ruby Classes][39]| [ruby oop cards][1054]
 | [Activerecord][40]| [activerecord cards][1055]
-| [Intro to Rails][41]|[pokedex rails][1056]
-| [Layouts, Views][42]|
+| [Intro to Rails][41]| [pokedex rails][1056]
+| [Layouts, Views][42]| [sortify rails][1057]
+| [Rails Auth & 1-M][43]|[rails auth checks][1058]
+| [Rails M-M][44]|
+| [Validations][45]|
+| [Asset pipeline][46]|
+
 #### [Outcomes Topics](#outcomes-topics)
 Some dates To Be Determined
 
@@ -243,6 +248,31 @@ Some dates To Be Determined
 | Company Campus Visit                    |  TBD  |
 | Mock Interviews                         |  TBD  |
 
+
+#### Morning Exercises
+
+- [Command line murder mystery, CLI](https://github.com/wdi-sg/command-line-murder-mystery)
+- [Airbnb responsive, CSS](https://github.com/wdi-sg/css-airbnb-responsive)
+- [Sum string, JS](https://github.com/wdi-sg/sum-string)
+- [Fashion blog, CSS](https://github.com/wdi-sg/fashion-blog)
+- [Morse code, JS](https://github.com/wdi-sg/morse-code)
+- [Cyphers, JS](https://github.com/wdi-sg/cyphers)
+- [Baconian cipher, JS](https://github.com/wdi-sg/baconian-cipher)
+- [Hyrule potion shop, CSS](https://github.com/wdi-sg/hyrule_potion_shop)
+- [SQL Nintendo 64](https://github.com/wdi-sg/sql-n64-lab)
+- [SQL Joins blog](https://github.com/wdi-sg/sql-join-blog)
+- [Pig latin, Ruby](https://github.com/wdi-sg/piglatin)
+- [Atbash cipher, Ruby](https://github.com/wdi-sg/atbash_cipher)
+- [DNA analyzer, Ruby](https://github.com/wdi-sg/dna_analyzer)
+- [Word ladder, Ruby](https://github.com/wdi-sg/word_ladder)
+- [Cellphone, HTML CSS](https://github.com/wdi-sg/cell_phone_html_css)
+- [Poker refactor, Ruby](https://github.com/wdi-sg/poker_refactor)
+- [Binary search, JS](https://github.com/wdi-sg/binary-search)
+- [Clock intervals, HTML CSS JS](https://github.com/wdi-sg/js-clock-intervals)
+- [Fibonacci numbers, JS](https://github.com/wdi-sg/fibonacci-numbers)
+- [Builtin methods, JS](https://github.com/wdi-sg/builtin-methods)
+- [Supermarket queue, JS](https://github.com/wdi-sg/supermarket-queue)
+- [JSON to SQL converter, Node JS](https://github.com/wdi-sg/json-to-sql-converter)
 
 
 
@@ -332,6 +362,10 @@ Some dates To Be Determined
 [40]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-intro/active_record/readme.html
 [41]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-intro/readme.html
 [42]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-intro/views.html
+[43]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-auth-1-M/readme.html
+[44]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-M-M/readme.html
+[45]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-validation/readme.html
+[46]: https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/rails-assets-frontend/readme.html
 
 [900]: https://github.com/wdi-sg/html_top_ten_movies_table
 [901]: https://github.com/wdi-sg/html_user_inputs
@@ -393,6 +427,8 @@ Some dates To Be Determined
 [1054]: https://github.com/wdi-sg/ruby-oop-cards
 [1055]: https://github.com/wdi-sg/activerecord-cards
 [1056]: https://github.com/wdi-sg/pokedex-rails
+[1057]: https://github.com/wdi-sg/sortify-rails
+[1058]: https://github.com/wdi-sg/rails-auth-checks/
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
