@@ -13,9 +13,9 @@ If you want to deviate beyond the technologies and materials covered in the cour
 ---
 
 ### Dates:
-Start: Thursday 5/10
-Soft-launch: Wednesday 5/16
-Presentation: Friday (morning) 5/18
+#### Start: Thursday 5/10
+#### Soft-launch: Wednesday 5/16
+#### Presentation: Friday (morning) 5/18
 
 ---
 
