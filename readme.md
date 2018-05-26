@@ -233,6 +233,19 @@ Holidays:
 | [Validations][45]|
 | [Asset pipeline][46]|
 
+#### React.js
+
+| Topic                              | Assignments
+| ---                                | ---             
+| [Intro to Babel][328]| 
+
+| [Intro to React State][335]| [todo app][337]
+| [Webpack][336] | [webpack express boilerplate][339]
+| [React forms] | [tv maze][338]
+| [React Router][330] |
+
+
+
 #### [Outcomes Topics](#outcomes-topics)
 Some dates To Be Determined
 
@@ -519,43 +532,26 @@ Some dates To Be Determined
 [1214]: https://github.com/wdi-sg/rails-national-parks/blob/master/part3.md
 [1215]: https://github.com/TayKangSheng/rails-flea-circus-test-starter
 
-[301]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-intro/readme.html
-[302]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-directives-filters/readme.html
-[303]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-animation/readme.html
-[304]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-bootstrap-directives/readme.html
-[305]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-http/readme.html
-[306]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-services/readme.html
-[307]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-routing/readme.html
-[309]: https://jeremiahalex.gitbooks.io/wdi-sg/content/04-databases/mongo-intro/intro-nosql.html
-[310]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-mongoose/readme.html
-[311]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-jwt/readme.html
-[313]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-express/readme.html
-[314]: https://github.com/wdi-sg/fly-on-angular
-[315]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-authentication/readme.html
-[316]: https://github.com/wdi-sg/angular-recipes
-[319]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-custom-filters/readme.html
-[320]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-custom-directives/readme.html
-[328]: 10-react/react-intro/readme.html
-[329]: 10-react/react-gulp-browserify/readme.html
-[330]: 10-react/react-router/readme.html
-[331]: https://github.com/wdi-sg/react-omdb
-[332]: 10-react/react-animations/readme.html
-[333]: https://jeremiahalex.gitbooks.io/wdi-sg/content/04-databases/mongo-intro/data-modeling.html
-[334]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-mongoose/relations.html
 
-[1300]: https://github.com/wdi-sg/angular-calculator
-[1301]: https://github.com/wdi-sg/fruits-and-veggies
-[1302]: https://github.com/wdi-sg/angular-giphy
-[1303]: https://github.com/wdi-sg/angular-reddit-dashboard
+[336]: 10-react/react-webpack/readme.html
+
+[328]: 10-react/react-intro/readme.html
+[335]: 10-react/react-intro/components.html
+[334]: 10-react/react-intro/bind.html
+[333]: 10-react/react-intro/state.html
+[332]: 10-react/react-intro/forms.html
+[331]: 10-react/react-intro/lifecycle.html
+[330]: 10-react/react-router/readme.html
+[337]: https://github.com/wdi-sg/todo-react
+[338]: https://github.com/wdi-sg/tvmaze-react
+[339]: https://github.com/wdi-sg/react-express-webpack
+
 [1304]: 11-projects/project-4/readme.html
 [1305]: https://github.com/wdi-sg/angular-route-those-views
 [1306]: http://codepen.io/bhague1281/pen/EKyMVz
 [1307]: http://codepen.io/bhague1281/pen/aNZPrq
-[1309]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/teaser-ruby-binary-search/readme.html
 [1310]: https://github.com/wdi-sg/restful-api
-[1312]: 11-projects/mean-hackathon/readme.html
-[1313]: https://github.com/wdi-sg/angular-filters
-[1314]: https://github.com/wdi-sg/angular-directives
+
 [1315]: https://github.com/wdi-sg/interview-questions
 [1316]: https://github.com/wdi-sg/react-stopwatch
 [1317]: https://github.com/wdi-sg/react-yearbook
