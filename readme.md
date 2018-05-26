@@ -238,10 +238,9 @@ Holidays:
 | Topic                              | Assignments
 | ---                                | ---             
 | [Intro to Babel][328]| 
-
 | [Intro to React State][335]| [todo app][337]
 | [Webpack][336] | [webpack express boilerplate][339]
-| [React forms] | [tv maze][338]
+| [React Forms][332] | [tv maze][338]
 | [React Router][330] |
 
 
